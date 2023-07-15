@@ -4,7 +4,7 @@ Individual Basketball Training using YOLOv8 and Deep Sort
 In this repo we use two diferents repos:
 
 + [YOLOv8](https://github.com/ultralytics/ultralytics)
-+ [YOLOv8-Object-Detection-with-DeepSORT-Tracking](https://github.com/noorkhokhar99/YOLOv8-Object-Detection-with-DeepSORT-Tracking)
++ [YOLOv8-DeepSORT-Object-Tracking](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking)
 
 From this I've created a python script that can detect a person and ball from a video and give a feedback.
 
@@ -16,7 +16,8 @@ git clone https://github.com/Mario31y/YOLOv8DeepSort-Basketball-Training
 ```
 + Second install all the dependencies
 ```
-pip install ultralytics=8.0.0
+pip install -r requirements.txt
+pip install ultralytics
 ```
 + Go to the folder 
 ```
