@@ -26,6 +26,8 @@ cd yolo/v8/detect
 + Run the command below
 
 There are 3 excercise types
+
+You can use any YOLO-v8 model or train001.pt and train001l.pt two models that work well with the test videos
 ```
 python tracking_ball_person_counting.py model=yolov8l.pt source="videos/test.mp4" show=True
 ```
