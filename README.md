@@ -21,16 +21,24 @@ git clone https://github.com/Mario31y/YOLOv8DeepSort-Basketball-Training
 pip install -r requirements.txt
 pip install ultralytics
 ```
++ Setting the Directory
+```
+cd yolo/v8/detect/deep_sort_pytorch/deep_sort/deep/checkpoint
+```
++ Copy ckpt.t7 in the yolo/v8/detect/deep_sort_pytorch/deep_sort/deep/checkpoint
+```
+cd yolo/v8/detect/deep_sort_pytorch/deep_sort/deep/checkpoint
+```
+Paste the next file -> [file](https://drive.google.com/file/d/1U8e7JcWDQyLrlpiCkcnh1gkmebaGO8vh/view?usp=share_link)
     
 ## Run
 
 To test this project follow the next steps:
 
-- Setting the Directory.
+- Setting the Directory
 ```
 cd yolo/v8/detect
 ```
-
 - Do Tracking with mentioned command below
 
 You can use any YOLO-v8 model or train001.pt and train001l.pt two models that work well with the test videos. There are 3 excercise types.
