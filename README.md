@@ -25,7 +25,7 @@ pip install ultralytics
 ```
 cd yolo/v8/detect/deep_sort_pytorch/deep_sort/deep/checkpoint
 ```
-+ Copy ckpt.t7 in the yolo/v8/detect/deep_sort_pytorch/deep_sort/deep/checkpoint
++ Paste ckpt.t7 in the yolo/v8/detect/deep_sort_pytorch/deep_sort/deep/checkpoint
 ```
 cd yolo/v8/detect/deep_sort_pytorch/deep_sort/deep/checkpoint
 ```
