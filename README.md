@@ -7,7 +7,7 @@ for individual basketball training
 In this repo we use two diferents repos:
 
 + [YOLOv8](https://github.com/ultralytics/ultralytics)
-+ [YOLOv8-DeepSORT-Object-Tracking](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking)
++ [YOLOv8-Object-Detection-with-DeepSORT-Tracking](https://github.com/noorkhokhar99/YOLOv8-Object-Detection-with-DeepSORT-Tracking)
 
 From this I've created a python script that can detect a person and ball from a video and give a feedback.
 ## Installation
